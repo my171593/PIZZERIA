@@ -1,0 +1,15 @@
+body{
+  text-align:center;  
+}
+input{
+    background-color:bisque;
+}
+#button12{
+    margin-top: 5px;
+    margin-bottom:5px;
+}
+#sorting{
+    margin-top:5px;
+    margin-bottom:20px;
+    display:none;
+}
